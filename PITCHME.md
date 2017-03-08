@@ -25,8 +25,36 @@
     * Allows for a clean pipeline
 
 #HSLIDE
+### Let's get Started!!!
+  1. Test stage
+  2. Publish stage
+  3. How to store credentials on Jenkins
+  4. Deploy Dev
+  5. Conveyor
+  6. Manual Deploy to Production
+#HSLIDE
+### Test Stage
+
 
 #HSLIDE
+### Publish Stage
+
+
+
 #HSLIDE
+### Storing Credentials on Jenkins
+
+
 #HSLIDE
+### Deploying to Dev
+
 #HSLIDE
+### Conveyor
+#### What is it, how does it work, and what are the benefits?
+
+
+#HSLIDE
+### Setting up a manual deployment to Production
+
+#HSLIDE
+### fin.
