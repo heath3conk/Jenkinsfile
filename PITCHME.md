@@ -1,6 +1,7 @@
 #HSLIDE
 ## Compozed Global Lunch and Learn
 ### Jenkinsfile
+![Jenkins](pics/jenkins.jpeg)
 
 #HSLIDE
 ### Jenkins, Continuous Delivery, and a Jenkinsfile
