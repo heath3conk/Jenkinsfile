@@ -1,7 +1,7 @@
 #HSLIDE
 ## Compozed Global Lunch and Learn
 ### Jenkinsfile
-![Jenkins](pics/jenkins.jpeg)
+![Jenkins](https://github.com/TSLarson/Jenkinsfile/blob/master/pics/jenkins.jpeg)
 
 #HSLIDE
 ### Jenkins, Continuous Delivery, and a Jenkinsfile
